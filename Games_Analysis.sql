@@ -1,4 +1,4 @@
-USE GameAnalysis;
+USE Game_Analysis;
 
 
 -- Problem Statement - Game Analysis dataset
